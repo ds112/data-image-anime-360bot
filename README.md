@@ -1,2 +1,2 @@
 # data-image-anime-360bot
-<img src="images/cry/1.gif">
+<img src="images/anime/cry/1.gif">
